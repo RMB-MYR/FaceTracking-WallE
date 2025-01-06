@@ -2,8 +2,11 @@
 
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/77fa0118-de14-476f-93c4-d604b853c377" />
 
-Ein kleines Projekt welches im rahmen des Studiums geschrieben wurde. Der 3D gedruckte Wall-E hat eine intergrierte Kamera welche Passanten verfolgt.
-Sobald Walle-E ein gesicht erkennt werden seine Augen rot, und seine Kopf verfolgt den Passanten. 
+Project Description:
+
+As part of the academic programme, a compact project was developed: a 3D-printed Wall-E robot equipped with an integrated camera and facial recognition system.
+
+The Wall-E is capable of tracking passers-by using its camera. When a face is detected, its eyes light up red, and its head dynamically follows the identified person. This project combines robotics, 3D printing, and image processing to create an interactive and engaging application.
 
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/6c26e7f1-80a4-458e-ba62-d91d71ddb02e" />
 
@@ -14,8 +17,8 @@ Sobald Walle-E ein gesicht erkennt werden seine Augen rot, und seine Kopf verfol
 
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/4be08e30-53b5-4b41-9194-fb621a130733" />
 
-Hier ist das electronische Schema:
+Here is the electronic schematic:
 
 <img width="1155" alt="image" src="https://github.com/user-attachments/assets/c3e1527f-64f8-4bb8-b465-e24882ddc097" />
 
-Unten 
+
